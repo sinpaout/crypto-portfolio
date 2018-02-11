@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "dev",
+    "password": "dev",
+    "database": "crypto_portfolio_dev",
+    "host": "127.0.0.1",
+    "port": 13306,
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "dev",
+    "password": "dev",
+    "database": "crypto_portfolio_dev",
+    "host": "127.0.0.1",
+    "port": 13306,
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "dev",
+    "password": "dev",
+    "database": "crypto_portfolio_dev",
+    "host": "127.0.0.1",
+    "port": 13306,
+    "dialect": "mysql"
+  }
+}
